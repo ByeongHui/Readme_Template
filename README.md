@@ -7,18 +7,6 @@
 
 ### 소분류 1 - 1
 
-소분류 설명.
-
-```
-내부 설명.
-```
-
-### 소분류 1 - 2
-
-설명.
-
-### 소분류 1 - 3
-
 설명.
 
 ```
@@ -39,7 +27,7 @@ We use [SemVer](http://semver.org/) for versioning. For the versions available, 
 
 * **Billie Thompson** - *Initial work* - [PurpleBooth](https://github.com/PurpleBooth)
 
-## 대부뉼 5 - 점 표시.
+## 대분류 5 - 점 표시.
 
 * Hat tip to anyone who's code was used
 * Inspiration
