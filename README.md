@@ -19,16 +19,13 @@
 * [구글](https://www.google.com/) - 이것은 구글
 
 
-## 대분류 3 - 링크 넣기.
+## 대분류 3 - 기울임 글자
 
-We use [SemVer](http://semver.org/) for versioning. For the versions available, see the [tags on this repository](https://github.com/your/project/tags). 
-
-## 대분류 4 - 기울임 글자.
-
-* **Billie Thompson** - *Initial work* - [PurpleBooth](https://github.com/PurpleBooth)
+*설명... 블라블라*
 
 ## 대분류 5 - 점 표시.
 
-* Hat tip to anyone who's code was used
-* Inspiration
-* etc
+* 퇴근
+* 퇴근
+* 퇴근
+* 퇴근
